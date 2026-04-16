@@ -2,7 +2,10 @@ public class SumArguments {
 
     public static void main(String[] args) {
 
+<<<<<<< HEAD
         // If no arguments passed
+=======
+>>>>>>> feature/day2
         if (args.length == 0) {
             System.out.println("No command-line arguments provided!");
             return;
