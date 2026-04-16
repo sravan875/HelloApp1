@@ -2,6 +2,7 @@ public class SumArguments {
 
     public static void main(String[] args) {
 
+        // If no arguments passed
         if (args.length == 0) {
             System.out.println("No command-line arguments provided!");
             return;
