@@ -1,3 +1,4 @@
+package Day9;
 class EmployeeWage {
 
     // Method to compute wage (UC7 + UC8)
