@@ -1,0 +1,3 @@
+interface WageInterface {
+    void compute();
+}
