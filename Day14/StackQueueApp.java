@@ -1,5 +1,3 @@
-package Day14;
-
 import java.util.*;
 
 // Node class
