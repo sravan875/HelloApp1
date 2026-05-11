@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/DAY5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day11&amp;12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day16&amp;17" isTestSource="false" packagePrefix="Day16" />
+      <sourceFolder url="file://$MODULE_DIR$/Day8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="junit.jupiter" level="project" />
+  </component>
+</module>
